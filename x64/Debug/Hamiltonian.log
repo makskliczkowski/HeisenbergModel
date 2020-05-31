@@ -1,0 +1,52 @@
+﻿  Hamiltonian.cpp
+  The contents of <execution> are available only with C++17 or later.
+  header.cpp
+  The contents of <execution> are available only with C++17 or later.
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(547): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp parallel for shared(states,exponent,returner,state,q) num_threads(8) 
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(588): warning #3180: unrecognized OpenMP #pragma
+    	#pragma omp parallel for shared(states,returner) num_threads(8) 
+    	^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(607): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp parallel for shared(L,Z11,Z22,Z33,beta1,beta2,beta3,eigenVec,eigenVal,q,omega) num_threads(8) reduction(+: S_q_om1) reduction(+: S_q_om2)  reduction(+: S_q_om3) 
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(629): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp atomic
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(631): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp atomic
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(633): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp atomic
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(674): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp parallel for shared(Sq,S_q_om1,S_q_om2,S_q_om3,Z22,Z33,beta2,eigenVec,eigenVal,q,omeganumber,size) num_threads(8)
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(687): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp atomic
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(698): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp atomic
+    ^
+  
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\header.cpp(700): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp atomic
+    ^
+  
+  Lanczos.cpp
+  The contents of <execution> are available only with C++17 or later.
+  testingMains.cpp
+  The contents of <execution> are available only with C++17 or later.
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\testingMains.cpp(214): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp parallel for shared(coeff,eigvec,psi_0) num_threads(8)
+    ^
+  

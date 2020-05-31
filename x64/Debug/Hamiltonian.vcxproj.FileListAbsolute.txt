@@ -1,0 +1,2 @@
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\x64\Debug\Hamiltonian.exe
+D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\x64\Debug\Hamiltonian.pdb

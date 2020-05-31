@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hamiltonian", "Hamiltonian.vcxproj", "{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Debugger|x64 = Debugger|x64
+		Debugger|x86 = Debugger|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debug|x64.ActiveCfg = Debug|x64
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debug|x64.Build.0 = Debug|x64
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debug|x86.Build.0 = Debug|Win32
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debugger|x64.ActiveCfg = Debugger|x64
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debugger|x64.Build.0 = Debugger|x64
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debugger|x86.ActiveCfg = Debugger|Win32
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Debugger|x86.Build.0 = Debugger|Win32
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Release|x64.ActiveCfg = Release|x64
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Release|x64.Build.0 = Release|x64
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Release|x86.ActiveCfg = Release|Win32
+		{4799DAEA-33C4-439A-A8C4-C6AFE2463EB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9725B9B-F3B2-4AAE-A797-44692FFBDB83}
+	EndGlobalSection
+EndGlobal

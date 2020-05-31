@@ -1,0 +1,6 @@
+﻿  Hamiltonian.cpp
+D:\Uni\SEMESTERS\Armadillo\armadillo-9.850.1\include\armadillo_bits/arma_static_check.hpp(31): warning #300: const variable "junk" requires an initializer
+        junk[ ERROR___TYPE_MISMATCH_OR_UNSUPPORTED_TYPE ? -1 : +1 ];
+                                                                   ^
+  
+  Hamiltonian.vcxproj -> D:\Uni\SEMESTERS\MS\I\Many Body\LAB\Hamiltonian\x64\Release\Hamiltonian.exe
